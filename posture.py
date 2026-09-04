@@ -1,23 +1,9 @@
+# POSTURE MODULE
+# This file analyses a players head and embouchure (mouth) position using MediaPipe's face landmark model.
+
 import math
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
-
-# LOADING THE POSE LANDMARKER MODEL
-
-pose_base_options = python.BaseOptions(
-    model_asset_path='pose_landmarker_lite.task'
-)
-
-pose_options = vision.PoseLandmarkerOptions(
-    base_options=pose_base_options,
-    running_mode=vision.RunningMode.VIDEO,
-    # Confidence thresholds determine how certain mediapipe has to be to detect the pose
-    min_pose_detection_confidence=0.6,
-    min_pose_presence_confidence=0.6,
-    min_tracking_confidence=0.6
-)
-
-pose_detector = vision.PoseLandmarker.create_from_options(pose_options)
 
 # LOADING THE FACE LANDMARKER MODEL
 
