@@ -1,3 +1,6 @@
+# UI MODULE
+# The entire user interface (UI) design for the system.
+
 import cv2
 import time
 
