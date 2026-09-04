@@ -1,3 +1,7 @@
+# FLUTE FINGERING MODULE
+# This file determines the note names and note fingering positions
+# for beginner practice. It also generates random notes for practice mode.
+
 import random
 
 # NOTE NAMES USED FOR BEGINNER PRACTICE
