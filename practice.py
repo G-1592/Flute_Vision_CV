@@ -1,3 +1,8 @@
+# PRACTICE MODULE
+# This file is used for the practice mode only. It checks 
+# whether the detected finger position matches the random note
+# generated from the flute fingering module.
+
 import time
 import random
 
