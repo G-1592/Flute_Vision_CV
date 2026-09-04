@@ -1,7 +1,7 @@
 import cv2
 import time
 
-# (OpenCV uses BGR colour order instead of RBG)
+# (OpenCV uses BGR colour order instead of RGB)
 
 # DESIGNING THE DETECTION BOX + MAIN MENU VISUALS IN ONE FUNCTION
 
@@ -224,19 +224,9 @@ def draw_hand_landmarks(
         hand_landmarks,
         hand_lines,
         w,
-        h,
-        colour=None
+        h
 ):
-    if colour is None:
-
-        line_colour = (255, 200, 80)
-        point_colour = (255, 255, 255)
-
-    else:
-
-        line_colour = colour
-        point_colour = colour
-
+        
     for start_idx, end_idx in hand_lines:
 
         start = hand_landmarks[start_idx]
