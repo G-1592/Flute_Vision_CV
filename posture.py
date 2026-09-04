@@ -1,5 +1,6 @@
 # POSTURE MODULE
-# This file analyses a players head and embouchure (mouth) position using MediaPipe's face landmark model.
+# This file analyses a players head and embouchure (mouth) position 
+# using MediaPipe's face landmark model.
 
 import math
 from mediapipe.tasks import python
