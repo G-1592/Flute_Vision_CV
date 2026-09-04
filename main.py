@@ -1,6 +1,6 @@
 # MAIN PROGRAM
-# This file connects the hand-tracking, posture analysis, calibration, note detection
-# and user interface (UI) modules together.
+# This file connects the hand-tracking, posture analysis, note detection
+# and user interface (UI) modules together with the calibration system.
 
 # IMPORTS
 
