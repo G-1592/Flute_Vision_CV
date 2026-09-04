@@ -1,3 +1,8 @@
+# HAND TRACKING MODULE
+# This file analyses the angles and distances of the fingers when
+# playing the flute. It also includes drawing the hand landmarks/lines
+# and button interaction.
+
 import math
 from math import pi
 from mediapipe.tasks import python
