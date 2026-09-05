@@ -51,6 +51,7 @@ Designed for use on a music stand.
    Install the required libraries using:
    ```bash
    pip install opencv-python mediapipe numpy
+   ```bash
 
 2. ### Required Model Files
    The system also requires the official MediaPipe Hand Landmarker and Face Landmarker model files:
