@@ -5,6 +5,8 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 
 ## Demo Video
 
+## Features
+
 ## Demo Pictures
 <table>
   <tr>
@@ -26,6 +28,18 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
       </td>
   </tr>
 </table>
+
+## How it works
+
+## Technologies
+
+## Installing the system
+
+## Acknowledgements
+
+## Future improvements/ findings
+
+
 
 
 
