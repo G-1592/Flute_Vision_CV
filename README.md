@@ -2,7 +2,7 @@
 A real-time computer vision system for flute fingering, posture, and embouchure analysis, without relying on audio input.
 
 ## About
-
+As a flute player of ten years, I know how challenging flute fingerings and embouchure (mouth position) can be for beginners. That's what inspired me to build a system focused on helping users develop these foundational techniques. But, instead of relying on audio analysis, I wanted to push myself to see if computer vision alone could meaningfully analyse flute performance. The system uses hand and face landmark detection to analyse beginner technique and was designed with use on a music stand in mind.
 
 ## Demo Video
 
