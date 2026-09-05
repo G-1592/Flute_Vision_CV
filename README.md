@@ -5,9 +5,7 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 As a flute player of ten years, I know how challenging flute fingerings and embouchure (mouth position) can be for beginners. That's what inspired me to build a system focused on helping users develop these foundational techniques. But, instead of relying on audio analysis, I wanted to push myself to see if computer vision alone could meaningfully analyse flute performance. The system uses MediaPipe hand and face landmark detection to analyse beginner technique and was designed with use on a music stand in mind.
 
 ## Demo Video
-
-<video src="./Demo Video (Flute) (1).mp4" controls width="700"></video>
-
+https://github.com/user-attachments/assets/a0a671c4-1552-477a-9d61-797b3efe020d
 
 ## How it works
 The system uses MediaPipe hand and face landmark detection to track the player's movements in real time. Hand landmarks are used to calculate finger angles and distances, which are compared against personalised thresholds established during calibration. Face landmarks are used to analyse head alignment and embouchure visual technique. The system then provides real-time feedback through the different practice and posture modes.
