@@ -77,7 +77,7 @@ The system uses MediaPipe hand and face landmark detection to track the player's
 ## Findings
 The aim of this project was to see how meaningfully computer vision alone can analyse live flute performance. The results were more accurate than I initally expected! 
 
-However, without audio input, there were several limitations. For example, distinguishing between certain notes can be difficult when the relevant fingering information is not visible to the camera. This was especially prevalent with notes C3 and B4 as the thumb behind the flute (which is responsible for changing the pitch) is unseen.
+However, without audio input, there were several limitations. For example, distinguishing between certain notes can be difficult when the relevant fingering information is not visible to the camera. This was particularly evident with notes C3 and B4 as the thumb behind the flute (which is responsible for changing the pitch) is unseen.
 
 I also found that the right pinky finger was sometimes not detected fully. Although this did not significantly change the recognition of most notes tested, it did reduce the accuracy for detecting D sharp as this is the only note that relies on the right pinky finger to change pitch.
 
