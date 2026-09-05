@@ -18,7 +18,7 @@ The system uses MediaPipe hand and face landmark detection to track the player's
 
 **Gesture-controlled buttons** - Easy touch-free navigation between different modes.
 
-Designed for use on a music stand.
+🎵 Designed for use on a music stand.
 
 ## Screenshots
 <table>
