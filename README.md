@@ -8,7 +8,7 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 ## Demo Pictures
 <table>
   <tr>
-  <td align="center">
+    <td align="center">
     <td><img src="https://github.com/user-attachments/assets/073c5ab9-5891-45ab-a8d5-a5464488e194" width="250"></td>
     <br> Practice Mode
     <td><img src="https://github.com/user-attachments/assets/a0100416-095f-4aae-adb5-9ebeea77826c" width="250"></td>
