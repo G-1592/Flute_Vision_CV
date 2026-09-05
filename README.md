@@ -6,6 +6,9 @@ As a flute player of ten years, I know how challenging flute fingerings and embo
 
 ## Demo Video
 
+
+
+
 ## How it works
 The system uses MediaPipe hand and face landmark detection to track the player's movements in real time. Hand landmarks are used to calculate finger angles and distances, which are compared against personalised thresholds established during calibration. Face landmarks are used to analyse head alignment and embouchure visual technique. The system then provides real-time feedback through the different practice and posture modes.
 
