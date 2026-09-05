@@ -5,7 +5,20 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 
 ## Demo Video
 
+## How it works
+
 ## Features
+
+## Installing the system
+
+1. ### Required Libraries
+   - OpenCV
+   - MediaPipe
+   - NumPy
+     
+   Install the required libraries using:
+   ```bash
+   pip install opencv-python mediapipe numpy
 
 ## Screenshots
 <table>
@@ -28,12 +41,6 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
       </td>
   </tr>
 </table>
-
-## How it works
-
-## Technologies
-
-## Installing the system
 
 ## Acknowledgements
 
