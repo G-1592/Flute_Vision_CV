@@ -3,11 +3,17 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 
 ## About
 
+
 ## Demo Video
 
 ## How it works
 
-## Features
+## Key features
+**Calibration system** - Sets user-specific finger bend thresholds using angle and distance data.
+PRACTICE MODE - Checks real-time finger position accuracy for each flute note using hand tracking and hold-to-confirm validation. Optimised for beginner one-octave practice.
+Posture mode - Tracks embouchure and head alignment using face tracking.
+Gesture-controlled buttons - Easy touch-free navigation between different modes.
+Designed for use on a music stand.
 
 ## Installing the system
 
@@ -59,6 +65,7 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 </table>
 
 ## Acknowledgements
+
 
 ## Future improvements/ findings
 
