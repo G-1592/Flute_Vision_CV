@@ -7,7 +7,7 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
 
 ## Features
 
-## Demo Pictures
+## Screenshots
 <table>
   <tr>
     <td align="center">
