@@ -74,8 +74,8 @@ The system uses MediaPipe hand and face landmark detection to track the player's
 ## Acknowledgements
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) for the hand and face landmark detection tools and models used in this project.
 
-## Future improvements/ findings
-
+## Future improvements/findings
+The aim of this project was to see how meaningfully computer vision alone can analyse live flute performance. The results were more accurate than I expected! Indeed, for the difference between notes such as C3 and B4, since the thumb is not detected,
 
 
 
