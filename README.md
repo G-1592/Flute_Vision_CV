@@ -1,5 +1,5 @@
 # Flute_Vision_CV
-A real-time computer vision system for flute fingering, posture, and embouchure analysis.
+A real-time computer vision system for flute fingering, posture, and embouchure analysis, without relying on audio input.
 
 ## About
 
