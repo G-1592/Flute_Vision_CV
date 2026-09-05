@@ -57,7 +57,7 @@ The system uses MediaPipe hand and face landmark detection to track the player's
 2. ### Required Model Files
    The system also requires the official MediaPipe Hand Landmarker and Face Landmarker model files:
    - hand_landmarker.task - available from the [MediaPipe Hand Landmarker documentation](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python)
-   - face_landmarker.task
+   - face_landmarker.task - available from the [MediaPipe Face Landmarker documentation](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/python)
    
    Place both files in the main project directory.
 
