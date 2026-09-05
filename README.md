@@ -72,7 +72,7 @@ The system uses MediaPipe hand and face landmark detection to track the player's
     ```
 
 ## Acknowledgements
-
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) for the hand and face landmark detection tools and models used in this project.
 
 ## Future improvements/ findings
 
