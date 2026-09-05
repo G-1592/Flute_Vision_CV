@@ -20,6 +20,19 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
    ```bash
    pip install opencv-python mediapipe numpy
 
+2. ### Required Model Files
+   The system also requires the official MediaPipe Hand Landmarker and Face Landmarker model files:
+   - hand_landmarker.task
+   - face_landmarker.task
+   Place both files in the main project directory.
+
+3. ### Running the system
+   Once the libraries and model files are installed:
+   **Using an IDE:** Run `main.py`.
+   **Using the terminal:** Run
+    ```bash
+   main.py
+
 ## Screenshots
 <table>
   <tr>
