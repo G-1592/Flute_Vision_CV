@@ -6,11 +6,7 @@ As a flute player of ten years, I know how challenging flute fingerings and embo
 
 ## Demo Video
 
-
-
-
-
-
+<video src="./demo.mp4" controls width="700"></video>
 
 
 ## How it works
