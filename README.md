@@ -68,6 +68,7 @@ Designed for use on a music stand.
    **Using the terminal:** 
     ```bash
    python main.py
+    ```
 
 ## Acknowledgements
 
