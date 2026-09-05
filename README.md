@@ -31,9 +31,9 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
    
    **Using an IDE:** Run `main.py`.
    
-   **Using the terminal:** Run
+   **Using the terminal:** 
     ```bash
-   main.py
+   python main.py
 
 ## Screenshots
 <table>
