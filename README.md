@@ -24,6 +24,7 @@ A real-time computer vision system for flute fingering, posture, and embouchure 
    The system also requires the official MediaPipe Hand Landmarker and Face Landmarker model files:
    - hand_landmarker.task
    - face_landmarker.task
+   
    Place both files in the main project directory.
 
 3. ### Running the system
